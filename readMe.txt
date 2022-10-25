@@ -1,0 +1,1 @@
+open the page after connecting to internet.
